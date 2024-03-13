@@ -1,0 +1,42 @@
+[
+  {
+    "id": "12345",
+    "cover": "https://i.ibb.co/Kbpvsd9/close-up-hand-with-painting-pallete.jpg",
+   
+    "author_img": "https://i.ibb.co/CHf0HvP/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
+    "author": "John Doe",
+    "posted_date": "2024-03-12",
+    "reading_time": "10 ",
+    "hashtags": ["fiction", "adventure", "shortstory"]
+  },
+  {
+    "id": "67890",
+    "cover": "https://i.ibb.co/NrQjdS0/computer-program-coding-screen.jpg",
+    
+    "author_img": "https://i.ibb.co/FskCvP6/portrait-student-park.jpg",
+    "author": "Jane Smith",
+    "posted_date": "2024-03-11",
+    "reading_time": "8 ",
+    "hashtags": ["sciencefiction", "technology", "future"]
+  },
+  {
+    "id": "54321",
+    "cover": "https://i.ibb.co/sqpP6hh/flat-lay-workstation-with-copy-space-laptop.jpg",
+   
+    "author_img": "https://i.ibb.co/pLWH9f3/smiling-young-woman-writing-schedule-diary.jpg",
+    "author": "Alice Johnson",
+    "posted_date": "2024-03-10",
+    "reading_time": "15 ",
+    "hashtags": ["fantasy", "magic", "epic"]
+  },
+  {
+    "id": "98765",
+    "cover": "https://i.ibb.co/TTRT9Nf/online-blog.jpg",
+    
+    "author_img": "https://i.ibb.co/jJV6Ssc/young-adult-suit-holding-several-documents-posing-isolated-dark-wall.jpg",
+    "author": "Bob Williams",
+    "posted_date": "2024-03-09",
+    "reading_time": "12 ",
+    "hashtags": ["mystery", "crime", "detective"]
+  }
+]
