@@ -1,6 +1,7 @@
 [
   {
     "id": "12345",
+    "title": "The Journey Begins",
     "cover": "https://i.ibb.co/Kbpvsd9/close-up-hand-with-painting-pallete.jpg",
    
     "author_img": "https://i.ibb.co/CHf0HvP/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
@@ -11,6 +12,7 @@
   },
   {
     "id": "67890",
+    "title": "Into the Unknown",
     "cover": "https://i.ibb.co/NrQjdS0/computer-program-coding-screen.jpg",
     
     "author_img": "https://i.ibb.co/FskCvP6/portrait-student-park.jpg",
@@ -21,6 +23,7 @@
   },
   {
     "id": "54321",
+    "title": "A Magical Quest",
     "cover": "https://i.ibb.co/sqpP6hh/flat-lay-workstation-with-copy-space-laptop.jpg",
    
     "author_img": "https://i.ibb.co/pLWH9f3/smiling-young-woman-writing-schedule-diary.jpg",
@@ -31,6 +34,7 @@
   },
   {
     "id": "98765",
+      "title": "The Case of the Missing Diamond",
     "cover": "https://i.ibb.co/TTRT9Nf/online-blog.jpg",
     
     "author_img": "https://i.ibb.co/jJV6Ssc/young-adult-suit-holding-several-documents-posing-isolated-dark-wall.jpg",
